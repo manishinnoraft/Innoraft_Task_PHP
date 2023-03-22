@@ -1,0 +1,8 @@
+{
+    "name": "phpmailer/mailer",
+    "description": "\"This is a php mailer\"",
+    "type": "library",
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
